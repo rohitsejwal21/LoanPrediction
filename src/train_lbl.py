@@ -231,7 +231,7 @@ def run(fold, model):
     idxs = np.argsort(importances)
     for i in range(len(idxs)):
         print(column_names[i], importances[i])
-    """
+    """ 
 
     test_predictions(clf, cat_cols, dependent_mapping)
 
