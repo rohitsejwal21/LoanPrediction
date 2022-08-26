@@ -3,7 +3,7 @@
 Train file: CSV containing the customers for whom loan eligibility is known as 'Loan_Status'
 
 Variable	Description
-Loan_ID	Unique Loan ID
+Loan_ID	Unique Loan ID, 
 Gender	Male/ Female
 Married	Applicant married (Y/N)
 Dependents	Number of dependents
